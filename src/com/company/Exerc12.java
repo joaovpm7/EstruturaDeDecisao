@@ -16,10 +16,5 @@ public class Exerc12 {
 
         double peso = (72.7 * altura) - 58;
         System.out.println("Seu peso é: " + peso);
-
-
-
-
-
     }
 }
